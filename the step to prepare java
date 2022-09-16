@@ -2,3 +2,14 @@ it is from the book Java 语言程序设计教程（第二版）
 http://www.oracle.com/technetwork/cn/java/index.html
 上面可以下载JDK
 PATH需要增加bin的路径
+下载安装ideal
+进入引导
+创建新项目
+在src右键单击选择新建java class
+在class中输入
+public class hello {
+    public static void main(String[] args){
+        System.out.println("Hello World!");
+    }
+}
+运行，java编程开始
